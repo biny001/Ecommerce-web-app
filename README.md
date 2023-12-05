@@ -2,16 +2,6 @@
 
 Clothify is a modern and stylish e-commerce web application built with React, Context API, and Tailwind CSS. Shop the latest fashion trends with ease!
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies](#technologies)
-- [Getting Started](#getting-started)
-- [Folder Structure](#folder-structure)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -31,8 +21,7 @@ View the live demo of Clothify [here](https://your-clothify-demo-url.com).
 - Context API
 - Tailwind CSS
 - React Router
-- (Add any other important technologies here)
-
+- 
 ## Getting Started
 
 Follow these steps to get Clothify running on your local machine.
