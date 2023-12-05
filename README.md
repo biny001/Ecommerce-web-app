@@ -36,3 +36,7 @@ Make sure you have Node.js and npm installed on your machine.
 
    ```bash
    git clone https://github.com/your-username/clothify.git
+cd clothify
+npm install
+npm run dev
+Open your browser and visit http://localhost:3000 to explore Clothify.
